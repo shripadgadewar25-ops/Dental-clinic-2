@@ -1,0 +1,6 @@
+{
+  "name": "Dental Clinic Landing Page",
+  "description": "A professional landing page for a dental clinic with WhatsApp booking integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
